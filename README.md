@@ -1,6 +1,6 @@
 # React Add to Cart Task :
 
-## Vercel URL : 
+## Vercel URL : https://react-task-day2-add-to-cart.vercel.app/
 
 ## Base URL : http://localhost:3000/
 
